@@ -1,5 +1,5 @@
 
-#Description  
+# Description  
 
 This vulnerability occurs when users in the web-admin group enter commands on the crontab by selecting the root shell. 
 As a result of exploiting the vulnerability,authenticated web-admin users can run commands with root privileges and receive reverse shell connections. 
@@ -18,4 +18,8 @@ It can also be used in privilege escalation attacks on local systems.
 
 
 # POC 
+
+
+
+https://github.com/GTxNoMercy00/REP/assets/169443064/f91b6911-09e9-4753-aee9-8836e58aea71
 
