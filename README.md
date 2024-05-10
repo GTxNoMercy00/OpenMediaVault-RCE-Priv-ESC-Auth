@@ -1,12 +1,9 @@
 OPTIONS
-  -h, --help            show this help message and exit
-  -U IP, --ip IP        Victim Ip Adress
-  -u USERNAME, --username USERNAME
-                        Username For Web Admin
-  -p PASSWORD, --password PASSWORD
-                        Password For Web Admin
+-h, --help
+-U IP, --ip IP
+-u USERNAME, --username USERNAME
+-p PASSWORD, --password PASSWORD
+
   -L LHOST, --lhost LHOST
-                        Listener IP Adress For Reverse Shell
   -P LPORT, --lport LPORT
-                        Listener Port For Reverse Shell
 POC
